@@ -12,6 +12,7 @@ public class EmployeeManagmentSystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagmentSystemApplication.class, args);
 		System.err.println("Employee Managment System Running > > >");
+		System.out.println("Cloning");
 	}
 
 }
